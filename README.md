@@ -7,9 +7,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and Astro 🚀**
 
-- 📚 I am studying computer engineering at **the universidad catolica andres bello** 
+- 📚 I am studying computer engineering at **the Universidad Catolica Andres Bello** 
 
 - 💬 Ask me about **Web development**
 
